@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2621245579
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 52218edf3d7d086b40a67edb9e4ed2ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4eae65048325dad0245712e0418be61f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2d049eb819856f44196e24eff1c89bb2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Skins/Halloween/Textures/SnakeBody.png
+- Assets/Skins/Halloween/Textures/SnakeHead.png
+- Assets/Skins/Halloween/Resources/Snake/SnakeBodyPart_Halloween.asset
+Dependencies: []

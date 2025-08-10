@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: deaee16494bf5a141a27f5bc6325e770, type: 3}
+  m_Name: GameAssets
+  m_EditorClassIdentifier: 
+  snakePrefab: {fileID: 9012092864694532976, guid: 72b7dbf52d2e8604baf6eb942ca26c56, type: 3}
+  SnakeBodyPartData: {fileID: 11400000, guid: 0830e99f82c91424cb5405c60206afe4, type: 2}
+  SnakeData: {fileID: 11400000, guid: a2c9160e238709a4b893a9e50cee4907, type: 2}
+  foodSprite: {fileID: 21300000, guid: c3bd1ffb8de1fa441a845a659442868c, type: 3}
+  soundAudioClipArray:
+  - sound: 0
+    audioClip: {fileID: 8300000, guid: 4d40ab1a04d39294382012f105a5f176, type: 3}
+  - sound: 1
+    audioClip: {fileID: 8300000, guid: 2b26e532e1357594f9835a5a8b7fb3f9, type: 3}
+  - sound: 2
+    audioClip: {fileID: 8300000, guid: 3084476810b14e54997c27af92a17bef, type: 3}
+  - sound: 3
+    audioClip: {fileID: 8300000, guid: 51b76524965f79e448d85349cd66c337, type: 3}
+  - sound: 4
+    audioClip: {fileID: 8300000, guid: 611728f9d20a2794ba00aa0fe076393e, type: 3}

@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 125662487
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: halloweenbundle
+      Dependencies: {}
